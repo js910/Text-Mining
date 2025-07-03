@@ -2,14 +2,6 @@
 
 ## 사용한 데이터
 
-- **분석에 실제 사용된 전처리 데이터**:  
-  [https://github.com/seojincho77/Team_F/releases/tag/v1.0.0](https://github.com/seojincho77/Team_F/releases/tag/v1.0.0)  
-  (전처리된 관객/평론가 리뷰 데이터 포함)
-  <sub>데이터 파일 용량 문제로 별도 업로드하였습니다.</sub>
----
-
-### 원본 데이터 출처
-
 - IMDB Movie Reviews Dataset (관객 리뷰):  
   https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
